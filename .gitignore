@@ -1,0 +1,4 @@
+.ipynb_checkpoints/*
+processed_celeba_small/*
+processed-celeba-small.zip
+__MACOSX/*
